@@ -95,21 +95,6 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/anishanandhan">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=anishanandhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/anishanandhan">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishanandhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&card_width=320" />
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
@@ -130,11 +115,11 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 📌 Featured Repositories
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=anishanandhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/anishanandhan)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anishanandhan&repo=REPO_NAME&theme=tokyonight&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&hide_border=true)](https://github.com/anishanandhan/REPO_NAME)
 
 </div>
 
@@ -234,30 +219,6 @@ print(me.motto())
 🔬  Security Research               →  Systems Security, Formal Verification, Protocol Analysis
 ☁️  Cloud Security                  →  AWS Security Hub, IAM Hardening, Zero Trust Architecture
 ```
-
----
-
-## 👥 Leadership
-
-<details>
-<summary>🌍 <strong>Millennium Fellowship</strong> — Fellowship Director & Global Admissions Committee Member &nbsp;|&nbsp; 2025 – Present</summary>
-
-<br/>
-
-- 🌐 Led coordination of fellowship activities and supported fellows in developing projects aligned with the **UN Sustainable Development Goals (SDGs)**.
-- 🗳️ Serving on the Global Admissions Committee (GAC), evaluating fellowship applications from students **worldwide** based on leadership potential and project impact.
-
-</details>
-
-<details>
-<summary>🏫 <strong>VIT Chennai</strong> — Head of Student Committee &nbsp;|&nbsp; 2024 – Present</summary>
-
-<br/>
-
-- 👥 Led a team of student members to organize events and institutional initiatives with effective coordination and execution.
-- 📋 Managed planning, communication, and task delegation to improve team productivity and event outcomes.
-
-</details>
 
 ---
 
