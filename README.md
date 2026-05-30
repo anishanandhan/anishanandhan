@@ -24,7 +24,6 @@ class AnishAnandhan:
         self.location     = "Chennai, India 🇮🇳"
         self.degree       = "MTech Integrated Software Engineering"
         self.university   = "Vellore Institute of Technology, Chennai"
-        self.cgpa         = 8.15
         self.role         = "Cybersecurity Researcher & AI Security Engineer"
         self.stack        = [
             "Python", "Java", "SQL", "JavaScript",
@@ -220,7 +219,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| 🎓 MTech Integrated Software Engineering | Vellore Institute of Technology, Chennai | 2022 – 2027 | CGPA: **8.15** |
+| 🎓 MTech Integrated Software Engineering | Vellore Institute of Technology, Chennai | 2022 – 2027 |
 
 </div>
 
