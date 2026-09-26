@@ -1,13 +1,18 @@
 <div align="center">
 
+# 🛡️ ANISH ANANDHAN A L
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=750&lines=OT%2FICS+Security+Intern+%40+Medtronic+PLC;Former+Research+Intern+%40+IIT+Madras+(CyStar);Cybersecurity+%7C+Cyber+Defense+%7C+Cloud+Security;SC-200+%7C+ISC2+CC+%7C+AWS+CloudOps+%7C+2x+IEEE+Published)](https://github.com/anishanandhan)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Anish+%F0%9F%91%8B;Cybersecurity+%7C+AI+%2B+ML+Security+%7C+Research;IIT+Madras+CyStar+Research+Intern;ISC2+Certified+%7C+2x+IEEE+Published)](https://github.com/anishanandhan)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-anish--anandhan.web.app-FF2A2A?style=for-the-badge&logo=firebase&logoColor=white)](https://anish-anandhan.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishanan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishanan/)
+[![GitHub](https://img.shields.io/badge/GitHub-anishanandhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishanandhan)
+[![Email](https://img.shields.io/badge/Email-anishanandhan13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishanandhan13@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_8870676412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8870676412)
+[![X](https://img.shields.io/badge/X-anish__anandhan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anish_anandhan)
+[![Instagram](https://img.shields.io/badge/Instagram-anish.anan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish.anan/)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anishanandhan&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/anishanandhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anishanandhan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishanandhan)
-[![GitHub](https://img.shields.io/badge/GitHub-anishanandhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anishanandhan)
-[![Email](https://img.shields.io/badge/Email-anishanandhan13@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anishanandhan13@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=anishanandhan&style=flat-square&color=ff2a2a&label=Profile+Views)](https://github.com/anishanandhan)
 
 </div>
 
@@ -15,210 +20,127 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```python
 class AnishAnandhan:
     def __init__(self):
-        self.name         = "Anish Anandhan A L"
-        self.location     = "Chennai, India 🇮🇳"
-        self.degree       = "MTech Integrated Software Engineering"
-        self.university   = "Vellore Institute of Technology, Chennai"
-        self.role         = "Cybersecurity Researcher & AI Security Engineer"
-        self.stack        = [
-            "Python", "Java", "SQL", "JavaScript",
-            "OWASP ZAP", "Burpsuite", "Wireshark", "Nmap",
-            "ELK Stack", "Docker", "TensorFlow", "LangGraph"
+        self.name             = "Anish Anandhan A L"
+        self.current_role     = "OT/ICS Security Intern @ Medtronic PLC"
+        self.previous_role    = "Research Intern @ IIT Madras (CyStar)"
+        self.education        = "Integrated M.Tech Software Engineering @ VIT Chennai (2022–2027)"
+        self.specializations  = [
+            "OT/ICS Security", 
+            "Cyber Defense & CTI", 
+            "Vulnerability Management", 
+            "Cloud Security & DevSecOps"
         ]
-        self.currently_learning = [
-            "Quantum Machine Learning for Security",
-            "AI-Driven Threat Detection Systems",
-            "LLM Security & Adversarial ML",
-            "SIEM Engineering & Threat Intelligence"
+        self.active_stack      = [
+            "Python", "Armis", "Rapid7", "Ghidra", 
+            "AWS", "Docker", "Wireshark", "Modbus/TCP", "ELK"
         ]
-        self.certifications = [
+        self.certifications   = [
+            "Microsoft Certified: Security Operations Analyst Associate (SC-200)",
             "ISC2 Certified in Cybersecurity (CC)",
-            "TryHackMe OWASP Top 10",
-            "AI Automation: LLM Apps & AI Agents"
+            "AWS Certified CloudOps Engineer – Associate",
+            "AWS Certified AI Practitioner",
+            "Power BI Data Analyst Associate",
+            "TryHackMe OWASP Top 10"
         ]
-        self.research       = "IIT Madras CyStar — under Prof. Chester Rebeiro"
-        self.fun_fact       = "I build AI systems that catch threats before humans do 🤖🔐"
+        self.publications     = ["2x IEEE Published Conference Papers (2025)"]
 
     def motto(self):
-        return "Secure the system. Outsmart the attacker. 🛡️"
+        return "Secure the industrial control plane. Outsmart the adversary. 🛡️"
 
 me = AnishAnandhan()
 print(me.motto())
 ```
 
-<br clear="right"/>
+---
+
+## 💼 Professional Work History
+
+### 🟢 **Medtronic PLC** — *OT/ICS Security Intern*
+> **Jul 2026 – Present** | Hyderabad, India `ONGOING`
+- 🏭 Contribute to OT Security initiatives across security governance, vulnerability management, PMO, and cyber defense.
+- 🛡️ Support OT vulnerability management using **Armis** and **Rapid7** for asset visibility, risk assessment, and remediation tracking.
+- 🔍 Perform OT Cyber Defense operations including Incident Response (IR) and Cyber Threat Intelligence (CTI).
+- ⚡ Automated an IOC-driven vulnerability assessment workflow using **Microsoft Power Automate** to automatically query IP/hostname IOCs.
+
+### 🔵 **IIT Madras (Centre for Cybersecurity, Trust & Reliability)** — *Research Intern*
+> **May 2026 – Jul 2026** | Chennai, India `COMPLETED`
+- 🔬 Engineered a research-grade BYOVD intelligence & exploitation platform for analyzing signed vulnerable Windows drivers.
+- ⚙️ Integrated Command & Control (C2) payloads using **Cipher C2** and **BOF/COFF** in-process dispatchers.
+- 🐉 Developed a **Ghidra headless analysis pipeline** automating driver binary disassembly, IOCTL mapping, vulnerability pattern detection, and CVE cross-referencing across 400+ signed drivers.
+
+### 🔍 **R S C Technologies** — *Cybersecurity Intern*
+> **Jun 2024 – Jul 2024** | Chennai, India
+- 📋 Administered authenticated vulnerability scans using **Qualys Cloud Agents**, prioritizing CVE/CVSS risks.
+- 🌐 Monitored firewall rules, router logs, and network telemetry via Syslog/SNMP to resolve misconfigurations.
+
+### 🧠 **Centre for Human Movement Analytics (CeHMA)** — *AI/ML Research Intern*
+> **May 2025 – Jun 2025** | Chennai, India
+- 🤖 Designed and trained an Attention-based CNN architecture for sensor activity recognition, achieving **96.40% classification accuracy** using SVMs.
+
+### 🌍 **Millennium Campus Network (MCN)** — *Global Admissions Committee Member*
+> **2026 – Present** | Remote
+- 🎓 Calibrating & reviewing international Millennium Fellowship applications across Cameroon, Tanzania, Nigeria, and Botswana.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Security Tools & Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cybersecurity Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Qualys](https://img.shields.io/badge/Qualys%20VMDR-ED2025?style=flat-square&logo=qualys&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-
-**AI / ML & Frameworks**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**DevOps & Cloud & Databases**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anishanandhan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://github.com/anishanandhan)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Anish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anishanandhan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/anishanandhan)
-
-</div>
-
----
-
-## 📌 Featured Repositories
-
-<div align="center">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=anishanandhan&repo=REPO_NAME&theme=tokyonight&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&hide_border=true)](https://github.com/anishanandhan/REPO_NAME)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary>🔬 <strong>IIT Madras — CyStar (Centre for Cybersecurity, Trust & Reliability)</strong> &nbsp;|&nbsp; Research Intern &nbsp;|&nbsp; May 2026 – Jul 2026 &nbsp;|&nbsp; Chennai, India</summary>
-
-<br/>
-
-> ![IIT Madras](https://img.shields.io/badge/IIT%20Madras-003087?style=flat-square&logo=academia&logoColor=white)
-> ![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Research-70A5FD?style=flat-square&logo=shield&logoColor=white)
-> ![Prof. Chester Rebeiro](https://img.shields.io/badge/Advisor-Prof.%20Chester%20Rebeiro-BF91F3?style=flat-square&logoColor=white)
-
-- 🔬 Conducting cybersecurity research at IIT Madras's Centre for Cybersecurity, Trust and Reliability (CyStar) under **Prof. Chester Rebeiro**, one of India's leading security researchers.
-- 🛡️ Working on advanced security research problems in the cybersecurity domain with a focus on developing novel detection and defense mechanisms.
-- 📊 Applying machine learning and systems security knowledge to real-world threat scenarios in a cutting-edge academic research environment.
-
-</details>
-
-<details>
-<summary>🔐 <strong>RSC Technologies</strong> &nbsp;|&nbsp; Cybersecurity Intern &nbsp;|&nbsp; Jun 2024 – Jul 2024 &nbsp;|&nbsp; Chennai, India</summary>
-
-<br/>
-
-> ![Qualys](https://img.shields.io/badge/Qualys%20VMDR-ED2025?style=flat-square&logo=qualys&logoColor=white)
-> ![CVE](https://img.shields.io/badge/CVE%2FCVSS%20Analysis-FF6633?style=flat-square&logo=security&logoColor=white)
-> ![Firewall](https://img.shields.io/badge/Firewall%20Review-005571?style=flat-square&logo=cisco&logoColor=white)
-> ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-00549E?style=flat-square&logo=owasp&logoColor=white)
-
-- 🔍 Analyzed **100+ vulnerabilities** using Qualys Cloud Agents, prioritizing risks based on CVSS scores and severity levels to drive efficient remediation.
-- 📋 Validated CVE/CVSS data and scan results to reduce false positives and improve the accuracy of security reports.
-- 🛡️ Reviewed firewall rules and system configurations, identifying misconfigurations and strengthening overall network security posture.
-- 🤝 Collaborated with cross-functional teams to implement security best practices and improve system reliability.
-
-</details>
+| Category | Tools & Technologies |
+|---|---|
+| **OT/ICS & Cyber Defense** | `Armis` `Rapid7` `Ghidra` `Wireshark` `Qualys` `Modbus/TCP` `OpenPLC` `ELK Stack` `Splunk` |
+| **Security & Automation** | `Python` `FastAPI` `Flask` `C/C++` `Bash` `SQL` `Power Automate` `Cipher C2` `BOF/COFF` |
+| **Cloud & Infrastructure** | `AWS` `Docker` `Git` `GitHub` `Linux` `Firebase` `React` `Tailwind CSS` |
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| ⚛️ **[QuSAR — Quantum Sensor Activity Recognition](https://github.com/anishanandhan)** | `Qiskit` `Python` `QML` `UCI HAR` | Hybrid quantum-classical HAR framework; 3 encoding variants (Swift/Angle-X, Balanced/Angle-Z, Deep/IQP); novel EES metric; peak accuracy **90.50%** with IQP encoding |
-| 📊 **[ET AI Hackathon 2026 — Multi-Agent Financial Dashboard](https://github.com/anishanandhan)** | `LangGraph` `Groq` `Claude` `React` | Multi-agent financial signal pipeline for Indian markets; dark-themed React frontend; Nifty 50 heatmap; LangGraph orchestration with multi-model routing |
-| 📡 **[Samsung Ennovatex AX — Adaptive Network Traffic Classifier](https://github.com/anishanandhan)** | `Python` `FAISS` `Flask` `MLP` | Context-aware flow embeddings using triple-loss MLP encoder; FAISS k-NN classification; Flask live dashboard; targeting **85%+ accuracy** on unseen traffic |
-| 🕵️ **[AI-Driven Insider Threat Detection Platform](https://github.com/anishanandhan)** | `Python` `TensorFlow` `ELK Stack` `Docker` | ML models for anomalous user behavior detection; real-time SIEM-style log monitoring; IEEE conference paper published (co-authored with Anusha K) |
-| 🕷️ **[Automated Web App Vulnerability Scanner](https://github.com/anishanandhan)** | `Python` `Selenium` `OWASP ZAP API` `Flask` | Detects all **OWASP Top 10** vulnerabilities including SQLi, XSS & insecure headers; DAST via ZAP API with automated report generation |
-| 💧 **[Water Pollution Monitoring System](https://github.com/anishanandhan)** | `Python` `Firebase` `React` `Selenium` | Real-time water quality monitoring with Firebase backend and React dashboard |
-
-</div>
+| Project | Category | Description | Tech Stack |
+|---|---|---|---|
+| 🏭 **[OTSecTwin](https://github.com/anishanandhan/OTSecTwin)** | OT/ICS Security | OT/ICS security digital twin for simulated industrial environments (PLC, HMI, SCADA) with Modbus anomaly detection & ELK dashboard. | `Python` `OpenPLC` `Modbus/TCP` `ELK` `Docker` `React` |
+| ⚡ **[AetherCTI](https://github.com/anishanandhan/AetherCTI)** | Threat Intelligence | Automated CTI platform querying 80+ security engines concurrently for IP, hash, domain, and URL threat scoring. | `FastAPI` `Python` `Asyncio` `SQLite` `MITRE ATT&CK` |
+| 🔬 **[DeepAnomalySec](https://github.com/anishanandhan)** | Security Research | Unsupervised deep feature extraction & clustering framework for high-dimensional security telemetry. | `PyTorch` `Python` `Deep Learning` `IEEE 2025` |
+| 🤖 **[AI Insider Threat Detection](https://github.com/anishanandhan/AI-Insider-Threat-Detection)** | Cyber AI | Intelligent anomaly detection parsing enterprise email logs & user behavior patterns using ML/DL. | `Python` `TensorFlow` `Scikit-Learn` `Pandas` |
+| 🛡️ **[VulnScanner](https://github.com/anishanandhan/VulnScanner)** | Security Automation | Automated web vulnerability scanner auditing endpoints for OWASP Top 10 flaws & configuration issues. | `Python` `Flask` `Docker` `BeautifulSoup` |
+| 📡 **[FlowEmbed](https://github.com/anishanandhan/FlowEmbed)** | SecOps ML | Metric learning framework embedding network traffic flows for anomaly & malware detection. | `Python` `PyTorch` `NetworkX` `Scikit-Learn` |
 
 ---
 
-## 🏅 Achievements & Certifications
+## 📄 IEEE Research Publications
 
-<div align="center">
+1. 📜 **[Integration of Piezoelectric and LDR Sensors for Efficient Electricity Generation](https://doi.org/10.1109/ICTMIM65579.2025.10988268)**  
+   *IEEE Conference Publication (2025)* — DOI: [`10.1109/ICTMIM65579.2025.10988268`](https://doi.org/10.1109/ICTMIM65579.2025.10988268)
 
-| 🏆 | Achievement | Details |
-|----|-------------|---------|
-| 🔐 | **ISC2 Certified in Cybersecurity (CC)** | Issued Jan 2026 — Industry-recognized entry-level cybersecurity certification |
-| 🕵️ | **TryHackMe – OWASP Top 10** | Issued 2025 — Hands-on completion of all OWASP Top 10 attack labs |
-| 🌐 | **Cisco Networking Academy – Packet Tracer** | Issued Jan 2026 — Networking fundamentals & simulation |
-| 🤖 | **AI Automation: LLM Apps & AI Agents** | Issued Jan 2026 — LLM application development & AI agent design |
-| 📄 | **IEEE Publication — AI Insider Threat Detection** | Co-authored with Anusha K, VIT Chennai — email anomaly analysis & behavioral ML |
-| ⚛️ | **QuSAR — QML Research** | Peak **90.50% accuracy** on UCI HAR dataset with IQP encoding; novel EES evaluation metric |
-| 📊 | **ET AI Hackathon 2026 — PS 6** | Built multi-agent financial signal dashboard for Indian investor market using LangGraph + Claude |
-| 📡 | **Samsung Ennovatex AX — PS 02** | Context-aware network traffic classifier with triple-loss MLP + FAISS; live demo on Galaxy S23 Ultra |
-| 🌍 | **Millennium Fellowship — Fellowship Director & GAC Member** | Evaluating fellowship applications worldwide for UN SDG-aligned leadership projects |
-
-</div>
+2. 📜 **[Unsupervised Anomaly Detection using Deep Feature Extraction and Clustering](https://doi.org/10.1109/ICCRTEE64519.2025.11053096)**  
+   *IEEE Conference Publication (2025)* — DOI: [`10.1109/ICCRTEE64519.2025.11053096`](https://doi.org/10.1109/ICCRTEE64519.2025.11053096)
 
 ---
 
-## 🎓 Education
+## 🏅 Certifications & Badges
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 MTech Integrated Software Engineering | Vellore Institute of Technology, Chennai | 2022 – 2027 |
-
-</div>
+| Certification | Issuer | Year |
+|---|---|---|
+| 🛡️ **Microsoft Certified: Security Operations Analyst Associate (SC-200)** | Microsoft | 2026 |
+| 🔐 **Certified in Cybersecurity (CC)** | ISC2 | Jan 2026 |
+| ☁️ **AWS Certified CloudOps Engineer – Associate** | Amazon Web Services | 2026 |
+| 🤖 **AWS Certified AI Practitioner** | Amazon Web Services | Dec 2025 |
+| 📊 **Power BI Data Analyst Associate** | Microsoft (NASSCOM) | Aug 2024 |
+| 🕷️ **OWASP Top 10** | TryHackMe | May 2024 |
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics & Activity
 
-```
-⚛️  Quantum Machine Learning        →  Quantum Circuits, Variational Algorithms, QML Security
-🤖  AI-Driven Threat Detection      →  LLM Security, Adversarial ML, Anomaly Detection
-📡  SIEM Engineering                →  Splunk, Elastic SIEM, IOC Analysis, Threat Hunting
-🔬  Security Research               →  Systems Security, Formal Verification, Protocol Analysis
-☁️  Cloud Security                  →  AWS Security Hub, IAM Hardening, Zero Trust Architecture
-```
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anishanandhan&theme=dark&hide_border=true&background=0A0A0A&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0A0A0A&border_radius=12)](https://github.com/anishanandhan)
+
+[![Anish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anishanandhan&theme=react-dark&bg_color=0a0a0a&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true)](https://github.com/anishanandhan)
+
+</div>
 
 ---
 
@@ -226,6 +148,6 @@ print(me.motto())
 
 ### 💬 *"Security is not a product, but a process."* — Bruce Schneier
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling)](https://github.com/anishanandhan)
+🌐 **Explore the live interactive portfolio at [anish-anandhan.web.app](https://anish-anandhan.web.app)**
 
 </div>
