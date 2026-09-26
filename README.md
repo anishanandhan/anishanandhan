@@ -136,7 +136,18 @@ print(me.motto())
 
 <div align="center">
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anishanandhan&theme=onedark&no-frame=true&no-bg=true)](https://github.com/anishanandhan)
+
+<br/>
+
+[![GitHub Overall Stats](https://github-readme-stats.vercel.app/api?username=anishanandhan&theme=dark&hide_border=true&show_icons=true&bg_color=0a0a0a&title_color=ff2a2a&icon_color=ff2a2a&text_color=ffffff)](https://github.com/anishanandhan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishanandhan&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ff2a2a&text_color=ffffff)](https://github.com/anishanandhan)
+
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=anishanandhan&theme=dark&hide_border=true&background=0A0A0A&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0A0A0A&border_radius=12)](https://github.com/anishanandhan)
+
+<br/>
 
 [![Anish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anishanandhan&theme=react-dark&bg_color=0a0a0a&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true)](https://github.com/anishanandhan)
 
