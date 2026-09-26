@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-anishanandhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishanandhan)
 [![Email](https://img.shields.io/badge/Email-anishanandhan13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishanandhan13@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_8870676412-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8870676412)
-[![X](https://img.shields.io/badge/X-anish__anandhan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anish_anandhan)
 [![Instagram](https://img.shields.io/badge/Instagram-anish.anan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish.anan/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anishanandhan&style=flat-square&color=ff2a2a&label=Profile+Views)](https://github.com/anishanandhan)
