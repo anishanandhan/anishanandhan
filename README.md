@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class AnishAnandhan:
@@ -48,7 +48,7 @@ class AnishAnandhan:
         self.publications     = ["2x IEEE Published Conference Papers (2025)"]
 
     def motto(self):
-        return "Secure the industrial control plane. Outsmart the adversary. 🛡️"
+        return "Secure the industrial control plane. Outsmart the adversary."
 
 me = AnishAnandhan()
 print(me.motto())
@@ -56,37 +56,37 @@ print(me.motto())
 
 ---
 
-## 💼 Professional Work History
+## Professional Work History
 
-### 🟢 **Medtronic PLC** — *OT/ICS Security Intern*
-> **Jul 2026 – Present** | Hyderabad, India `ONGOING`
-- 🏭 Contribute to OT Security initiatives across security governance, vulnerability management, PMO, and cyber defense.
-- 🛡️ Support OT vulnerability management using **Armis** and **Rapid7** for asset visibility, risk assessment, and remediation tracking.
-- 🔍 Perform OT Cyber Defense operations including Incident Response (IR) and Cyber Threat Intelligence (CTI).
-- ⚡ Automated an IOC-driven vulnerability assessment workflow using **Microsoft Power Automate** to automatically query IP/hostname IOCs.
+### **Medtronic PLC** — *OT/ICS Security Intern*
+> **Jul 2026 – Present** | Hyderabad, India [ONGOING]
+- Contribute to OT Security initiatives across security governance, vulnerability management, PMO, and cyber defense.
+- Support OT vulnerability management using **Armis** and **Rapid7** for asset visibility, risk assessment, and remediation tracking.
+- Perform OT Cyber Defense operations including Incident Response (IR) and Cyber Threat Intelligence (CTI).
+- Automated an IOC-driven vulnerability assessment workflow using **Microsoft Power Automate** to automatically query IP/hostname IOCs.
 
-### 🔵 **IIT Madras (Centre for Cybersecurity, Trust & Reliability)** — *Research Intern*
-> **May 2026 – Jul 2026** | Chennai, India `COMPLETED`
-- 🔬 Engineered a research-grade BYOVD intelligence & exploitation platform for analyzing signed vulnerable Windows drivers.
-- ⚙️ Integrated Command & Control (C2) payloads using **Cipher C2** and **BOF/COFF** in-process dispatchers.
-- 🐉 Developed a **Ghidra headless analysis pipeline** automating driver binary disassembly, IOCTL mapping, vulnerability pattern detection, and CVE cross-referencing across 400+ signed drivers.
+### **IIT Madras (Centre for Cybersecurity, Trust & Reliability)** — *Research Intern*
+> **May 2026 – Jul 2026** | Chennai, India [COMPLETED]
+- Engineered a research-grade BYOVD intelligence & exploitation platform for analyzing signed vulnerable Windows drivers.
+- Integrated Command & Control (C2) payloads using **Cipher C2** and **BOF/COFF** in-process dispatchers.
+- Developed a **Ghidra headless analysis pipeline** automating driver binary disassembly, IOCTL mapping, vulnerability pattern detection, and CVE cross-referencing across 400+ signed drivers.
 
-### 🔍 **R S C Technologies** — *Cybersecurity Intern*
+### **R S C Technologies** — *Cybersecurity Intern*
 > **Jun 2024 – Jul 2024** | Chennai, India
-- 📋 Administered authenticated vulnerability scans using **Qualys Cloud Agents**, prioritizing CVE/CVSS risks.
-- 🌐 Monitored firewall rules, router logs, and network telemetry via Syslog/SNMP to resolve misconfigurations.
+- Administered authenticated vulnerability scans using **Qualys Cloud Agents**, prioritizing CVE/CVSS risks.
+- Monitored firewall rules, router logs, and network telemetry via Syslog/SNMP to resolve misconfigurations.
 
-### 🧠 **Centre for Human Movement Analytics (CeHMA)** — *AI/ML Research Intern*
+### **Centre for Human Movement Analytics (CeHMA)** — *AI/ML Research Intern*
 > **May 2025 – Jun 2025** | Chennai, India
-- 🤖 Designed and trained an Attention-based CNN architecture for sensor activity recognition, achieving **96.40% classification accuracy** using SVMs.
+- Designed and trained an Attention-based CNN architecture for sensor activity recognition, achieving **96.40% classification accuracy** using SVMs.
 
-### 🌍 **Millennium Campus Network (MCN)** — *Global Admissions Committee Member*
+### **Millennium Campus Network (MCN)** — *Global Admissions Committee Member*
 > **2026 – Present** | Remote
-- 🎓 Calibrating & reviewing international Millennium Fellowship applications across Cameroon, Tanzania, Nigeria, and Botswana.
+- Calibrating & reviewing international Millennium Fellowship applications across Cameroon, Tanzania, Nigeria, and Botswana.
 
 ---
 
-## 🛠️ Security Tools & Tech Stack
+## Security Tools & Tech Stack
 
 | Category | Tools & Technologies |
 |---|---|
@@ -96,43 +96,43 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Category | Description | Tech Stack |
 |---|---|---|---|
-| 🏭 **[OTSecTwin](https://github.com/anishanandhan/OTSecTwin)** | OT/ICS Security | OT/ICS security digital twin for simulated industrial environments (PLC, HMI, SCADA) with Modbus anomaly detection & ELK dashboard. | `Python` `OpenPLC` `Modbus/TCP` `ELK` `Docker` `React` |
-| ⚡ **[AetherCTI](https://github.com/anishanandhan/AetherCTI)** | Threat Intelligence | Automated CTI platform querying 80+ security engines concurrently for IP, hash, domain, and URL threat scoring. | `FastAPI` `Python` `Asyncio` `SQLite` `MITRE ATT&CK` |
-| 🔬 **[DeepAnomalySec](https://github.com/anishanandhan)** | Security Research | Unsupervised deep feature extraction & clustering framework for high-dimensional security telemetry. | `PyTorch` `Python` `Deep Learning` `IEEE 2025` |
-| 🤖 **[AI Insider Threat Detection](https://github.com/anishanandhan/AI-Insider-Threat-Detection)** | Cyber AI | Intelligent anomaly detection parsing enterprise email logs & user behavior patterns using ML/DL. | `Python` `TensorFlow` `Scikit-Learn` `Pandas` |
-| 🛡️ **[VulnScanner](https://github.com/anishanandhan/VulnScanner)** | Security Automation | Automated web vulnerability scanner auditing endpoints for OWASP Top 10 flaws & configuration issues. | `Python` `Flask` `Docker` `BeautifulSoup` |
-| 📡 **[FlowEmbed](https://github.com/anishanandhan/FlowEmbed)** | SecOps ML | Metric learning framework embedding network traffic flows for anomaly & malware detection. | `Python` `PyTorch` `NetworkX` `Scikit-Learn` |
+| **[OTSecTwin](https://github.com/anishanandhan/OTSecTwin)** | OT/ICS Security | OT/ICS security digital twin for simulated industrial environments (PLC, HMI, SCADA) with Modbus anomaly detection & ELK dashboard. | `Python` `OpenPLC` `Modbus/TCP` `ELK` `Docker` `React` |
+| **[AetherCTI](https://github.com/anishanandhan/AetherCTI)** | Threat Intelligence | Automated CTI platform querying 80+ security engines concurrently for IP, hash, domain, and URL threat scoring. | `FastAPI` `Python` `Asyncio` `SQLite` `MITRE ATT&CK` |
+| **[DeepAnomalySec](https://github.com/anishanandhan)** | Security Research | Unsupervised deep feature extraction & clustering framework for high-dimensional security telemetry. | `PyTorch` `Python` `Deep Learning` `IEEE 2025` |
+| **[AI Insider Threat Detection](https://github.com/anishanandhan/AI-Insider-Threat-Detection)** | Cyber AI | Intelligent anomaly detection parsing enterprise email logs & user behavior patterns using ML/DL. | `Python` `TensorFlow` `Scikit-Learn` `Pandas` |
+| **[VulnScanner](https://github.com/anishanandhan/VulnScanner)** | Security Automation | Automated web vulnerability scanner auditing endpoints for OWASP Top 10 flaws & configuration issues. | `Python` `Flask` `Docker` `BeautifulSoup` |
+| **[FlowEmbed](https://github.com/anishanandhan/FlowEmbed)** | SecOps ML | Metric learning framework embedding network traffic flows for anomaly & malware detection. | `Python` `PyTorch` `NetworkX` `Scikit-Learn` |
 
 ---
 
-## 📄 IEEE Research Publications
+## IEEE Research Publications
 
-1. 📜 **[Integration of Piezoelectric and LDR Sensors for Efficient Electricity Generation](https://doi.org/10.1109/ICTMIM65579.2025.10988268)**  
+1. **[Integration of Piezoelectric and LDR Sensors for Efficient Electricity Generation](https://doi.org/10.1109/ICTMIM65579.2025.10988268)**  
    *IEEE Conference Publication (2025)* — DOI: [`10.1109/ICTMIM65579.2025.10988268`](https://doi.org/10.1109/ICTMIM65579.2025.10988268)
 
-2. 📜 **[Unsupervised Anomaly Detection using Deep Feature Extraction and Clustering](https://doi.org/10.1109/ICCRTEE64519.2025.11053096)**  
+2. **[Unsupervised Anomaly Detection using Deep Feature Extraction and Clustering](https://doi.org/10.1109/ICCRTEE64519.2025.11053096)**  
    *IEEE Conference Publication (2025)* — DOI: [`10.1109/ICCRTEE64519.2025.11053096`](https://doi.org/10.1109/ICCRTEE64519.2025.11053096)
 
 ---
 
-## 🏅 Certifications & Badges
+## Certifications & Badges
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🛡️ **Microsoft Certified: Security Operations Analyst Associate (SC-200)** | Microsoft | 2026 |
-| 🔐 **Certified in Cybersecurity (CC)** | ISC2 | Jan 2026 |
-| ☁️ **AWS Certified CloudOps Engineer – Associate** | Amazon Web Services | 2026 |
-| 🤖 **AWS Certified AI Practitioner** | Amazon Web Services | Dec 2025 |
-| 📊 **Power BI Data Analyst Associate** | Microsoft (NASSCOM) | Aug 2024 |
-| 🕷️ **OWASP Top 10** | TryHackMe | May 2024 |
+| **Microsoft Certified: Security Operations Analyst Associate (SC-200)** | Microsoft | 2026 |
+| **Certified in Cybersecurity (CC)** | ISC2 | Jan 2026 |
+| **AWS Certified CloudOps Engineer – Associate** | Amazon Web Services | 2026 |
+| **AWS Certified AI Practitioner** | Amazon Web Services | Dec 2025 |
+| **Power BI Data Analyst Associate** | Microsoft (NASSCOM) | Aug 2024 |
+| **OWASP Top 10** | TryHackMe | May 2024 |
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## GitHub Analytics & Activity
 
 <div align="center">
 
@@ -146,8 +146,8 @@ print(me.motto())
 
 <div align="center">
 
-### 💬 *"Security is not a product, but a process."* — Bruce Schneier
+### *"Security is not a product, but a process."* — Bruce Schneier
 
-🌐 **Explore the live interactive portfolio at [anish-anandhan.web.app](https://anish-anandhan.web.app)**
+Explore the live portfolio at [anish-anandhan.web.app](https://anish-anandhan.web.app)
 
 </div>
