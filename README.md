@@ -136,17 +136,7 @@ print(me.motto())
 
 <div align="center">
 
-![Public Repositories](https://img.shields.io/github/repositories/anishanandhan?style=flat-square&color=FF2A2A&label=Public%20Repositories)
-![Total Stars](https://img.shields.io/github/stars/anishanandhan?style=flat-square&color=FF2A2A&label=Total%20Stars)
-![Followers](https://img.shields.io/github/followers/anishanandhan?style=flat-square&color=FF2A2A&label=Followers)
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=anishanandhan&theme=dark&hide_border=true&background=0A0A0A&ring=FF2A2A&fire=FF2A2A&currStreakLabel=FF2A2A&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0A0A0A&border_radius=12)](https://github.com/anishanandhan)
-
-<br/>
-
-![Snake Animation](https://raw.githubusercontent.com/anishanandhan/anishanandhan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
