@@ -2,7 +2,7 @@
 
 # ANISH ANANDHAN A L
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=750&lines=OT%2FICS+Security+Intern+%40+Medtronic+PLC;Former+Research+Intern+%40+IIT+Madras+(CyStar);OT/ICSSecurity+%7C+Cyber+Defense+%7C+Cloud+Security;SC-200+%7C+ISC2+CC+%7C+AWS+CloudOps+%7C+2x+IEEE+Published)](https://github.com/anishanandhan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=750&lines=OT%2FICS+Security+Intern+%40+Medtronic+PLC;Former+Research+Intern+%40+IIT+Madras+(CyStar);OT/ICS+Security+%7C+Cyber+Defense+%7C+Cloud+Security;SC-200+%7C+ISC2+CC+%7C+AWS+CloudOps+%7C+2x+IEEE+Published)](https://github.com/anishanandhan)
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-anish--anandhan.web.app-FF2A2A?style=for-the-badge&logo=firebase&logoColor=white)](https://anish-anandhan.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anishanan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishanan/)
